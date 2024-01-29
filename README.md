@@ -56,7 +56,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author
 
--  <table>
+<table>
   <tr>    
     <td align="center">
       <a href="https://github.com/Isaacvf-dev">
