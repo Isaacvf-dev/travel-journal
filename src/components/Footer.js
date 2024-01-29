@@ -7,6 +7,7 @@ export default function Footer() {
           className="footer--link"
           href="https://github.com/Isaacvf-dev"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Isaac Vieira
         </a>
